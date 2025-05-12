@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/loancalculator/static/css/main.e6c13ad2.css",
+    "main.js": "/loancalculator/static/js/main.06433a73.js",
+    "static/js/453.e4b720fd.chunk.js": "/loancalculator/static/js/453.e4b720fd.chunk.js",
+    "index.html": "/loancalculator/index.html",
+    "main.e6c13ad2.css.map": "/loancalculator/static/css/main.e6c13ad2.css.map",
+    "main.06433a73.js.map": "/loancalculator/static/js/main.06433a73.js.map",
+    "453.e4b720fd.chunk.js.map": "/loancalculator/static/js/453.e4b720fd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.06433a73.js"
+  ]
+}
